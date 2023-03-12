@@ -370,7 +370,7 @@ ins, a:hover {
 }
 
 .footer {
-  background: rgba(0, 0, 0, 0) url('../img/19.gif') repeat scroll 0 0;
+  /* background: rgba(0, 0, 0, 0) url('../img/19.gif') repeat scroll 0 0; */
 }
 
 .footer #copyright {
@@ -434,7 +434,7 @@ ins, a:hover {
   width: 100%;
   height: 30px;
   margin-right: 10px;
-  background: rgba(0, 0, 0, 0) url('../img/10.png') repeat-x scroll 0 17px;
+  /* background: rgba(0, 0, 0, 0) url('../img/10.png') repeat-x scroll 0 17px; */
 }
 
 .top-info-line #crumbs {
